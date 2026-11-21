@@ -1,0 +1,6 @@
+{
+  "name": "Koda",
+  "description": "Mobile-first AI coding, file workspace, and Android Termux agent styled like a modern dark terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
